@@ -1,0 +1,29 @@
+Person:
+    - name: Alex
+      surname: Brown
+      role: "Student"
+      age: 20
+    - name: Chris
+      surname: Davis
+      role: Instructor
+      age: 31
+    - name: Emma
+      surname: Green
+      role: Student
+      age: 22
+    - name: John
+      surname: King
+      role: Admin
+      age: 27
+    - name: Lucy
+      surname: Miller
+      role: Admin
+      age: 24
+    - name: Nick
+      surname: Oliver
+      role: Professor
+      age: 45
+    - name: Paul
+      surname: Quinn
+      role: Assistant
+      age: 19
